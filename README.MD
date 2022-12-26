@@ -1,7 +1,7 @@
 Static Website Example
 ----------------------
 
-To be used with Cloud Academy labs.
+Az-400 Demo for Souce Control
 
 
 License
